@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+pydub
+faster-whisper
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+torch
+numpy
